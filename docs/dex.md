@@ -12,7 +12,7 @@ An example of the OpenID Configuration provided by Dex:
    "issuer": "http://app.example.com",
    "authorization_endpoint": "http://app.example.com/auth",
    "token_endpoint": "http://app.example.com/token",
-   "jwks_uri": "http:/app.example.com/keys",
+   "jwks_uri": "http://app.example.com/keys",
    "response_types_supported": [
      "code"
    ],
